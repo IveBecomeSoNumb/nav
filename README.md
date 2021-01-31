@@ -1,4 +1,4 @@
-# 开发
+# Develop
 
 ```
 yarn global add parcel-bundler
@@ -6,7 +6,7 @@ parcel src/index.html
 
 ```
 
-# build 命令
+# build 
 
 ```
 yarn build
